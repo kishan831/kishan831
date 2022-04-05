@@ -26,3 +26,6 @@ Skills: C/C#/HTML/Python(Beginner)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishan831)  
 
 ![Profile views](https://gpvc.arturio.dev/kishan831)  
+
+## My Contributions Are Eaten By Snake
+![snake gif](https://github.com/kishan831/kishan831/blob/output/github-contribution-grid-snake.gif)
