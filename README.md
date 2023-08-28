@@ -1,8 +1,7 @@
 ### Hi there 👋, Kishan Jaiswal
 #### Game Developer | Game Ethusiast
 
-I'm Kishan Jaiswal from India.I am a Game Developer. I have done my schooling from my home town and then after done my Diploma in Computer Science in Engineering. I am always be a game ethusiast since my childhood.So i just take this to my career path as well. After my college completed i just polished my self to being a developer and ready to start my journey in gaming industry. Apart from the game thing i am also a player ,I win some of the tournament in college level, Also I play VolleyBall, Swimming e.t.c. So I am mentally and physically fit in all around. 
-I have made some of my games as a project like - 3D Snake, 3D beat-em up, flappy bird e.t.c.
+Experienced Game and Unity Developer passionate about gaming since childhood. Possessing 2 years of professional development experience, I continuously strive to expand my knowledge and skills to enhance my expertise in the field. Committed to ongoing learning and growth to achieve excellence in all aspects of game development.
 
 Skills: C#/C++(Intermediate)/C#(Intermediate)
 
