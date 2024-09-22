@@ -1,7 +1,4 @@
-<div style="background-image: url('workflow/Kishan Youtube Banner.png'); padding: 40px; text-align: center; background-size: cover; color: white;">
-  <h1>Welcome to My Project</h1>
-  <p>Game Developer | Unity Expert | Gaming Enthusiast</p>
-</div>
+![Banner](.github/workflow/KishanYoutubeBanner(1).png)
 
 ## Hi there 👋, I'm Kishan Jaiswal  
 ### Game Developer | Gaming Enthusiast | Unity Expert
