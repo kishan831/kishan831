@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Gameplay Video](https://github.com/kishan831/kishan831/blob/main/workflow/thumbnail.png)](https://www.youtube.com/watch?v=i3U6mhh7QqU)
-
 # Hi there 👋, I'm Kishan Jaiswal  
 ### Game Developer | Gaming Enthusiast | Unity Expert
 
