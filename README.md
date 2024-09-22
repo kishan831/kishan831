@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![MastHead](workflow/KishanYoutubeBanner(1).png)](https://jaiswalkishan628.wixsite.com/kishanjaiswal-site)
+[![MastHead](workflow/banner.png)](https://jaiswalkishan628.wixsite.com/kishanjaiswal-site)
 
 # Hi there 👋, I'm Kishan Jaiswal  
 ### Game Developer | Gaming Enthusiast | Unity Expert
