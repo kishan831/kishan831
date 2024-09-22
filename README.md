@@ -1,6 +1,10 @@
-[![MastHead](https://github.com/kishan831/kishan831/blob/main/workflow/KishanYoutubeBanner(1).png)]
+![](https://hit.yhype.me/github/profile?user_id=77713888)
 
-## Hi there 👋, I'm Kishan Jaiswal  
+<div align="center">
+
+[![MastHead](workflow/KishanYoutubeBanner(1).png)](https://jaiswalkishan628.wixsite.com/kishanjaiswal-site)
+
+# Hi there 👋, I'm Kishan Jaiswal  
 ### Game Developer | Gaming Enthusiast | Unity Expert
 
 I'm a passionate Game Developer with **3 years of professional experience** in **Unity** and game development. I began my journey as an avid gamer, deeply inspired by the worlds I immersed myself in. Today, I turn those inspirations into reality by crafting engaging, immersive games.
@@ -73,10 +77,9 @@ I am currently working on developing **gambling slot machine games** for the cas
 ---
 
 ## 🌟 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan831&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan831)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishan831)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan831&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan831&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishan831&theme=dark)  
 
 ---
 
@@ -85,3 +88,7 @@ I am currently working on developing **gambling slot machine games** for the cas
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/kishan831)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/kishan-jaiswal-2586a4220/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/profile.php?id=100029049646884)
+
+---
+
+![Dino](workflow/dino.gif)
