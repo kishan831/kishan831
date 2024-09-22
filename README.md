@@ -1,4 +1,4 @@
-[![MastHead](https://github.com/Dhiraj57/Dhiraj57/blob/main/workflow/KishanYoutubeBanner(1).png)]
+[![MastHead](https://github.com/kishan831/kishan831/blob/main/workflow/KishanYoutubeBanner(1).png)]
 
 ## Hi there 👋, I'm Kishan Jaiswal  
 ### Game Developer | Gaming Enthusiast | Unity Expert
