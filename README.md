@@ -33,9 +33,9 @@ As a developer, I bring the player's perspective into every project. Whether it'
 ---
 
 ## 🌟 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan831&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan831&theme=dark)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishan831&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan831&show_icons=true&theme=monokai)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan831&theme=monokai)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishan831&theme=monokai)  
 
 ---
 
