@@ -41,9 +41,11 @@ As a developer, I bring the player's perspective into every project. Whether it'
 
 ## 🌐 Connect with Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/kishan831)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/kishan-jaiswal-2586a4220/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/profile.php?id=100029049646884)
+| [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan831) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-jaiswal-2586a4220/) | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029049646884) |
+| --- | --- | --- |
+| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kingindian1385) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrN0559CtMg-NeUi-9bqrTQ) | [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/kingIndian831) |
+| [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaiswalkishan628) | [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itchdotio&logoColor=white)](https://unitydev831.itch.io) | [![Patreon](https://img.shields.io/badge/Patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/KingIndian) |
+| [![ReplIt](https://img.shields.io/badge/Repl.it-%230D101E.svg?&style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@KishanJaiswal2) | [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=wix&logoColor=white)](https://jaiswalkishan628.wixsite.com/kishanjaiswal-site) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourTwitterHandle) |
 
 ---
 
