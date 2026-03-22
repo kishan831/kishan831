@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e1b,50:00d68a,100:0e0e1b&height=220&section=header&text=Kishan%20Jaiswal&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Unity%20Game%20Developer%20%7C%20Casino%20%26%20Slot%20Architect&descSize=16&descAlignY=55&descColor=00d68a&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d68a&height=220&section=header&text=Kishan%20Jaiswal&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Unity%20Game%20Developer%20|%20Casino%20%26%20Slot%20Architect&descSize=16&descAlignY=55&descColor=0e0e1b&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D68A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+67%2B+Casino+Games+at+Scale;Slot+Mechanics+%C2%B7+RNG+Systems+%C2%B7+Stack+Engine+%C2%B7+RGS;4%2B+Years+%C2%B7+50%2B+Projects+%C2%B7+15%2B+Team+Led)](https://git.io/typing-svg)
@@ -333,7 +333,7 @@ After adding this, go to **Actions** tab → **Generate Snake** → **Run workfl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e1b,50:00d68a,100:0e0e1b&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d68a&height=100&section=footer" width="100%"/>
 
 **If you found this profile interesting, consider giving my repos a ⭐**
 
