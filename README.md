@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d68a&height=220&section=header&text=Kishan%20Jaiswal&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Unity%20Game%20Developer%20|%20Casino%20%26%20Slot%20Architect&descSize=16&descAlignY=55&descColor=0e0e1b&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=00d68a&height=220&section=header&text=Kishan%20Jaiswal&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Unity%20Game%20Developer%20%E2%80%A2%20Casino%20Slot%20Architect&descSize=16&descAlignY=55&descColor=0e0e1b&animation=fadeIn)
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D68A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+67%2B+Casino+Games+at+Scale;Slot+Mechanics+%C2%B7+RNG+Systems+%C2%B7+Stack+Engine+%C2%B7+RGS;4%2B+Years+%C2%B7+50%2B+Projects+%C2%B7+15%2B+Team+Led)](https://git.io/typing-svg)
@@ -244,17 +244,13 @@ Cleopatra-themed slot with Free Bonus Spins, Scatter Multipliers up to 100x, and
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kishan831&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d68a&icon_color=00d68a&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&count_private=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan831&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d68a&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&langs_count=8" />
+![Kishan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kishan831&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d68a&icon_color=00d68a&text_color=c9d1d9&border_color=1a1a2e&count_private=true)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishan831&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d68a&text_color=c9d1d9&border_color=1a1a2e&langs_count=8)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan831&theme=github-dark-blue&background=0d1117&ring=00d68a&fire=00d68a&currStreakLabel=00d68a&border=1a1a2e" height="180"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=kishan831&theme=dark&background=0d1117&ring=00d68a&fire=00d68a&currStreakLabel=00d68a&border=1a1a2e&stroke=1a1a2e&sideLabels=c9d1d9&dates=6b6b80)
 
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kishan831&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishan831&bg_color=0d1117&color=00d68a&line=00d68a&point=ffffff&area_color=00d68a&area=true&hide_border=true)
 
 </div>
 
@@ -333,7 +329,7 @@ After adding this, go to **Actions** tab → **Generate Snake** → **Run workfl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d68a&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00d68a&height=100&section=footer)
 
 **If you found this profile interesting, consider giving my repos a ⭐**
 
